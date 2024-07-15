@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.mainpage_container {
+  
+}
+.mainpage {
+  width: 50vw;
+  height: 30vh;
+  display: flex;
+}
+.search_icon {
+  position: absolute;
+  padding-top: 33px;
+  padding-left: 760px;
+} 
+.books-row{
+   border: 2px solid ;  
+}
+.books-row .col{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
